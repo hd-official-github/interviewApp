@@ -50,7 +50,8 @@ export default function DragView() {
     {
         key: 8,
         name: 'Service Apartment',
-        icon: "house"
+        icon: "house",
+        navigate: "Details"
     },])
     return <GridView
         data={data}
