@@ -14,7 +14,6 @@ Run both of these commands after starting your android emulator
   <img src="./imgs/cap2.PNG" alt="Image 2" width="48%">
 </div>
 
-<video controls width="320" height="240">
-  <source src="./imgs/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/hd-official-github/interviewApp/assets/91799426/8d40c683-c42f-42bb-bc36-f6a9bccf5dc8
+
